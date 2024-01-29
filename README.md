@@ -17,4 +17,6 @@ The key of this problem is the tradeoff between the **safety** and **tracking** 
 ![Accelerometer 4](acc4.png)
 ![Accelerometer 5](acc5.png)
 ![Accelerometer 6](acc6.png)
-![Accelerometer 6](acc7.png)
+![Accelerometer 7](acc7.png)
+![Accelerometer 8](acc8.png)
+![Accelerometer 9](acc9.png)
